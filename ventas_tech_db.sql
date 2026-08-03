@@ -18,7 +18,7 @@ CREATE TABLE Clientes (
 	nombre VARCHAR (100) NOT NULL,
 	email VARCHAR (100) UNIQUE, 
 	ciudad VARCHAR (50),
-	fecha_regisrtro DATE NOT NULL,
+	fecha_registro DATE NOT NULL,
 );
 
 
